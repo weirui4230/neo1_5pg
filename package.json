@@ -1,0 +1,24 @@
+{
+  "name": "neo_1_5pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weirui4230/neo1_5pg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weirui4230/neo1_5pg/issues"
+  },
+  "homepage": "https://github.com/weirui4230/neo1_5pg#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
